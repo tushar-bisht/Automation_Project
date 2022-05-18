@@ -5,7 +5,7 @@ This scrit will work in ubuntu
 
 1. First it will update the packages.
 
-2.It will install the Apache web server 
+2. It will install the Apache web server 
 
 3. Start the web server
 
